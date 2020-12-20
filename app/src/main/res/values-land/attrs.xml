@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MitiAttrs">
+        <attr name="primaryText" format="reference|color" />
+        <attr name="secondaryText" format="reference|color" />
+        <attr name="tertiaryText" format="reference|color" />
+        <attr name="gridItemSeparator" format="reference|color" />
+    </declare-styleable>
+</resources>

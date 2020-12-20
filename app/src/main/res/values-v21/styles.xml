@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppThemeBlack" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/accent</item>
+        <item name="colorControlHighlight">@color/accentDim</item>
+
+        <item name="android:textColor">@color/primaryTextBlack</item>
+        <item name="android:textColorSecondary">@color/secondaryTextBlack</item>
+        <item name="android:textColorTertiary">@color/tertiaryTextBlack</item>
+
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <item name="android:windowLightNavigationBar" tools:ignore="NewApi">false</item>
+        <item name="android:navigationBarColor">@color/secondaryTextLight</item>
+        <item name="android:statusBarColor">@color/secondaryTextLight</item>
+        <item name="android:windowBackground">@color/windowsBackgroundBlack</item>
+
+        <item name="gridItemSeparator">@color/gridItemSeparatorBlack</item>
+    </style>
+
+    <style name="AppThemeDark" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/accent</item>
+        <item name="colorControlHighlight">@color/colorControlDark</item>
+
+        <item name="android:textColor">@color/primaryTextDark</item>
+        <item name="android:textColorSecondary">@color/secondaryTextDark</item>
+        <item name="android:textColorTertiary">@color/tertiaryTextDark</item>
+
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <item name="android:windowLightNavigationBar" tools:ignore="NewApi">false</item>
+        <item name="android:navigationBarColor">@color/windowsBackgroundDark</item>
+        <item name="android:statusBarColor">@color/windowsBackgroundDark</item>
+        <item name="android:windowBackground">@color/windowsBackgroundDark</item>
+
+        <item name="gridItemSeparator">@color/gridItemSeparatorDark</item>
+    </style>
+
+    <style name="AppThemeLight" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/accent</item>
+        <item name="colorControlHighlight">@color/accentDim</item>
+
+        <item name="android:textColor">@color/primaryTextLight</item>
+        <item name="android:textColorSecondary">@color/secondaryTextLight</item>
+        <item name="android:textColorTertiary">@color/tertiaryTextLight</item>
+
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">true</item>
+        <item name="android:windowLightNavigationBar" tools:ignore="NewApi">true</item>
+        <item name="android:navigationBarColor">@color/secondaryTextBlack</item>
+        <item name="android:statusBarColor">@color/secondaryTextBlack</item>
+        <item name="android:windowBackground">@color/windowsBackgroundLight</item>
+
+        <item name="gridItemSeparator">@color/gridItemSeparatorLight</item>
+    </style>
+</resources>

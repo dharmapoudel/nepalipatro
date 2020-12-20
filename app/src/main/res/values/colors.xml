@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#D50000</color>
+    <color name="accentDim">#40D50000</color>
+    <color name="colorControlDark">#2F3034</color>
+
+    <color name="primaryTextBlack">#FFFFFFFF</color>
+    <color name="secondaryTextBlack">#BBFFFFFF</color>
+    <color name="tertiaryTextBlack">#88FFFFFF</color>
+
+    <color name="primaryTextLight">#FF000000</color>
+    <color name="secondaryTextLight">#BB000000</color>
+    <color name="tertiaryTextLight">#88000000</color>
+
+    <color name="primaryTextDark">#BBBBBB</color>
+    <color name="secondaryTextDark">#999999</color>
+    <color name="tertiaryTextDark">#CC757575</color>
+
+    <color name="windowsBackgroundLight">#FFFFFFFF</color>
+    <color name="windowsBackgroundDark">#202125</color>
+    <color name="windowsBackgroundBlack">#FF000000</color>
+
+    <color name="gridItemSeparatorLight">#eeeeee</color>
+    <color name="gridItemSeparatorDark">#2C2D32</color>
+    <color name="gridItemSeparatorBlack">#111111</color>
+
+</resources>

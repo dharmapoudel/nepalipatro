@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="0dp"
+    android:layout_weight="0.4"
+    android:layout_height="match_parent"
+    android:layout_marginRight="10dp"
+    android:layout_marginEnd="10dp"
+    android:background="?colorPrimary">
+
+    <TextView
+        android:id="@+id/today_date_nepali"
+        android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="50sp"
+        android:layout_gravity="center_horizontal"
+        android:text="१"/>
+
+    <TextView
+        android:id="@+id/today_month_year_nepali"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25sp"
+        android:text="फाल्गुन, २०७२"/>
+
+    <TextView
+        android:id="@+id/today_date_english"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="14sp"
+        android:text="13 February, 2016"/>
+</LinearLayout>

@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Black theme -->
+    <style name="AppThemeBlack" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:textColor">@color/primaryTextBlack</item>
+        <item name="android:textColorSecondary">@color/secondaryTextBlack</item>
+        <item name="android:textColorTertiary">@color/tertiaryTextBlack</item>
+    </style>
+
+    <!-- Dark theme -->
+    <style name="AppThemeDark" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:textColor">@color/primaryTextDark</item>
+        <item name="android:textColorSecondary">@color/secondaryTextDark</item>
+        <item name="android:textColorTertiary">@color/tertiaryTextDark</item>
+    </style>
+
+    <!-- Light theme -->
+    <style name="AppThemeLight" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:textColor">@color/primaryTextLight</item>
+        <item name="android:textColorSecondary">@color/secondaryTextLight</item>
+        <item name="android:textColorTertiary">@color/tertiaryTextLight</item>
+    </style>
+
+</resources>
