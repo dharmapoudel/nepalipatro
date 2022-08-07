@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-xhdpi/list_divider_h.xml" value="0.1145" />
+        <entry key="app/src/main/res/drawable/border_bottom.xml" value="0.1145" />
+        <entry key="app/src/main/res/layout-land/layout_today.xml" value="0.22552083333333334" />
+        <entry key="app/src/main/res/layout-large-land/layout_today.xml" value="0.169140625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_calendar.xml" value="0.103125" />
+        <entry key="app/src/main/res/layout/fragment_tithi.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/layout_date.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/layout_date_header.xml" value="0.103125" />
+        <entry key="app/src/main/res/layout/layout_tithi.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/layout_today.xml" value="0.103125" />
+        <entry key="app/src/main/res/layout/widget_miti.xml" value="0.103125" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.103125" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
